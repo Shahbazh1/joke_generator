@@ -1,7 +1,7 @@
 
 # 😂 Joke Generator
 
-A **fun and simple web app** that generates random jokes on the click of a button using the [Official Joke API](https://official-joke-api.appspot.com).
+A **fun and simple web app** that generates random jokes on the click of a button using the [Official Joke API](https://official-joke-api.appspot.com/random_joke).
 
 Whenever you need a laugh, just press the button and enjoy a random joke with a punchline!
 
